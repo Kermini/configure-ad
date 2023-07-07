@@ -38,7 +38,8 @@ This tutorial will use two virtual machines for this lab. The first one will be 
 <p>
 EXAMPLE 1A
 
-![image](https://github.com/Kermini/configure-ad/assets/138714889/dfe14c56-1ae9-400e-8c28-ecb8c0d39bb9)
+![image](https://github.com/Kermini/configure-ad/assets/138714889/f225b820-e7a0-4efa-8c44-e854eb4a9247)
+
 
 <p>
 The next web page several items are input as shown in EXAMPLE 1B & 1C such as Resource Group, Virtual Machine, etc. Ensure to have the inputs be the same as the example photo.
